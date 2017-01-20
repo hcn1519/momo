@@ -1,0 +1,10 @@
+@media screen and (max-width: 736px) {
+  .homepage #header-wrapper {
+    padding: 3em 20px 3em 20px;
+  }
+}
+@media screen and (min-width: 737px) {
+  .homepage #header-wrapper {
+    padding: 4em 0 2em 0;
+  }
+}
